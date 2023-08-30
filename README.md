@@ -9,3 +9,4 @@ Finacle is used mostly in the banking industry. it is use to update their data-b
  3. Periodic operations such as interest calculation, standing instruction, recurring payment etc.
 
 Finacle can be learnt with a good knowledge of Java , C or C++. 
+![image](https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVufGVufDB8fDB8fHww&w=1000&q=80)
